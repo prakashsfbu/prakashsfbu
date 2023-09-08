@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+My Vibes
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ecq5mhvq3mrqdngyrncsk5ljlq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
